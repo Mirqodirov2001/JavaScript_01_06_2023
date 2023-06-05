@@ -67,7 +67,7 @@ console.log(a);
 
 **<------DATA TYPES------>**
 
-**O'zgaruvchilarni e'lon qilishda 3 xil asosiy usuldan foydalanamiz**
+**O'zgaruvchilarni, e'lon qilishda 3 xil asosiy usuldan foydalanamiz**
 
   1-camelCase;
   2-snake_case;
