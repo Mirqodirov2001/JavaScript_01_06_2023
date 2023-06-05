@@ -67,7 +67,7 @@ console.log(12 > 10); //false vs true
 /*
 //indefined
 
-let number // indefined qiymat berilmasa
+let number // qiymat berilmasa indeifined bo'ladi
 
 let number = null; // null o'zgaruvchi qiymati bo'shligi
 
@@ -93,3 +93,83 @@ console.log(typeof num);
 console.log(num);
 console.log(32421421435n);
 */
+
+
+//Masala ishlash;
+
+/*
+//1 
+var a = 10;
+if (a > 0)
+{
+    console.log(true)
+} else
+{
+    console.log(false)
+}
+
+*/
+
+//2
+
+/*
+var a = 3;
+
+if (a % 2)
+{
+    console.log(true)
+} else
+{
+    console.log(false)
+}
+*/
+
+//3
+/*
+var a = 3;
+var b = 5;
+
+if (a > 0 && b > 0)
+{
+    console.log(true)
+} else
+{
+    console.log(false)
+}
+  */
+ 
+//4
+/*
+var a = 4;
+var b = 6;
+var c = 3;
+
+if (a > b && b > c)
+{
+    console.log(true)
+} else
+{
+    console.log(false)
+}
+*/
+
+
+//5
+
+/*
+var a = 12;
+var b = 34;
+var c = 42;
+
+if (a < b && b < c)
+{
+    console.log(true)
+} else
+{
+    console.log(false)
+}
+
+*/
+
+
+//
